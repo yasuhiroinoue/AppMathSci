@@ -1,1 +1,6 @@
 .venv/
+__pycache__/
+extract_topics.py
+.env
+.env.example
+final_report_assignment.md
